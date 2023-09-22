@@ -1,10 +1,3 @@
-/*******************************************************************************
- * Name        : sieve.cpp
- * Author      : Aya Salama
- * Date        : 9/12/2023
- * Description : Sieve of Eratosthenes
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
- ******************************************************************************/
 #include <cmath>
 #include <iomanip>
 #include <iostream>
